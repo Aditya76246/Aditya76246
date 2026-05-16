@@ -1,21 +1,24 @@
 # 👋 Hi, I'm Aditya soni
 
-🚀 **Full-Stack Developer (MERN)**  
-💼 Software Engineer | 1 Year industry experience  
+🚀 **Full-Stack Developer (MERN Stack)**  
+💼 Software Engineer with 1+ Year of Industry Experience  
 📍 India
 
 Passionate about building **production-ready web applications** with clean, scalable code.  
-Currently working on **live enterprise products** using **React.js, JavaScript, HTML, CSS, and Tailwind CSS** on the frontend, while actively strengthening my **Node.js, Express, MongoDB, and Python** backend skills to transition into a **Full-Stack / Backend role**.
+Currently working on **live enterprise products** using **React.js, JavaScript, HTML, CSS, and Tailwind CSS** on the frontend, while actively strengthening my **Node.js, Express and MongoDB** backend skills to transition into a **Full-Stack / Backend role**.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 💡 Working on real-world applications used by actual customers  
-- 🔁 Experienced with REST APIs & role-based access control  
-- 🧠 Strong problem-solving & fast learner  
-- 🤝 Love collaborating with backend teams to understand system design  
-- 📈 Always improving performance, code quality & architecture  
+- 💡 Developing real-world applications used by actual customers
+- ⚡ Experienced in building responsive and dynamic user interfaces
+- 🔐 Worked with authentication & role-based access control systems
+- 🔁 Strong understanding of REST API integration and state management
+- 🧠 Fast learner with strong debugging and problem-solving skills
+- 🤝 Comfortable collaborating with backend and product teams
+- 📈 Focused on clean code, scalability, performance, and user experience
+- 🚀 Currently exploring backend architecture and React Native development 
 
 ---
 
@@ -32,7 +35,6 @@ Currently working on **live enterprise products** using **React.js, JavaScript, 
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
 
 ### 🧩 Backend
-![Python](https://img.shields.io/badge/python-323330?style=for-the-badge&logo=python)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
@@ -53,11 +55,12 @@ Currently working on **live enterprise products** using **React.js, JavaScript, 
 **Glansa Solutions Pvt. Ltd.** | Hyderabad  
 📅 *Sep 2025 – Present*
 
-- Developing production-grade **admin & customer dashboards**
-- Implemented **role-based access control**
-- Integrated APIs with pagination, filters & conditional actions
-- Fixed production bugs & optimized performance
-- Collaborated closely with backend teams
+- Developed and maintained production-grade admin and customer dashboards
+- Implemented role-based access control and secure user flows
+- Integrated APIs with pagination, filtering, and conditional rendering
+- Fixed production bugs and optimized frontend performance
+- Collaborated with backend teams for API integration and feature planning
+- Worked on scalable UI components and responsive application layouts
 
 ---
 
@@ -70,20 +73,6 @@ Currently working on **live enterprise products** using **React.js, JavaScript, 
 ### 🔹 MY CAR BUDDY – Customer Website
 **React | Responsive UI | API Integration**  
 🔗 https://mycarbuddy.in/
-
-### 🔹 INSTA-VIBE – Full Stack Social Media App
-**React | Node.js | Express | MongoDB | Socket.io**  
-🔗 GitHub: https://github.com/poornendraparouha/INSTA-VIBE  
-🔗 Live: https://insta-vibe-production.up.railway.app/
-
-### 🔹 Utility App – Todo / Notes
-**React | Node.js | MongoDB**  
-🔗 https://github.com/poornendraparouha/Utility_App_todo-notes
-
-### 🔹 Netflix UI Clone
-**React | Firebase | TMDB API**  
-🔗 https://github.com/poornendraparouha/Netflix-Clone  
-🔗 Live: https://netflix-clone-production-1db3.up.railway.app/
 
 ---
 
@@ -110,11 +99,11 @@ Currently working on **live enterprise products** using **React.js, JavaScript, 
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/poornendra-parouha-548055106)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:poornendraparouha@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/poornendraparouha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adityasonidev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:adityasoni97.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Aditya76246)
 
 ---
 
-⭐ *Actively looking for Backend / Full-Stack opportunities*  
+⭐ *Actively looking for Front-end / Full-Stack opportunities*  
 🚀 *Always learning. Always building.*
