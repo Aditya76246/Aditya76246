@@ -104,15 +104,7 @@ Responsive customer platform with scalable frontend architecture.
 - Worked on RBAC and permission systems
 - Collaborated with backend teams
 
----
 
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya76246&theme=tokyo-night&hide_border=true"/>
-
-</div>
 
 ---
 
